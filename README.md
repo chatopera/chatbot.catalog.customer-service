@@ -2,7 +2,7 @@
 
 行业内关于智能客服、聊天机器人的应用和架构、算法分享和介绍
 
- <img src="./assets/csdn-blog.jpg" height = "500" div align=right />
+ <img src="./assets/csdn-blog.jpg" height = "600" div align=right />
 
 # 阿里巴巴
 
