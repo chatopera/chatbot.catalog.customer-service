@@ -4,6 +4,116 @@
 
 <img src="./assets/csdn-blog.jpg" height = "400" div align=right />
 
+# 聊天机器人
+
+- [对话智能：国际视角，国内形势及案例学习](https://www.infoq.cn/article/AsSJ4cx5mLsa7SYl3-EY)
+- [实录分享 | 计算未来轻沙龙：对话系统研究进展（视频 + PPT）](https://mp.weixin.qq.com/s/YxpU4Q7QsUS3RGtlcK4Gwg)
+- [聊天机器人初学者完全指南](https://mp.weixin.qq.com/s/oOfJ-i-oKVXsRFICEPes5w)
+- [万物有灵：人机对话系统解析](https://mp.weixin.qq.com/s/Nj1kwKm333sNIGuvR6L4aA)
+- [Bot：带来对话式体验的下一代 UI](https://mp.weixin.qq.com/s/dclUGI6OtI04bXQhIqwImg)
+- [聊天机器人技术的研究进展](https://mp.weixin.qq.com/s/CsoNU4pMnuMNX1zwwW-Dag)
+- [总结 │ 解密 chatbot 人工智能聊天机器人 技术沙龙](https://mp.weixin.qq.com/s/r7vPOSdH7XK_3jc1WLqr2Q)
+- [盘点 | 聊天机器人的发展状况与分类](https://mp.weixin.qq.com/s/OX1LBLsk-KNNw_wEwcuJNQ)
+- [巨头们都很重视的聊天机器人，你不进来看看吗？](https://mp.weixin.qq.com/s/437xI1vbi7x37Uw-tL43Xg)
+- [为什么聊天机器人从业者都很委屈？](https://mp.weixin.qq.com/s/_pbqkAsDEkRbxLB3ehFuUA)
+- [“聊天机器人的革命创举” | Plug and Play 独家对话 Chatopera ](https://www.sohu.com/a/243757997_621617)
+- [聊天机器人多会长成“女孩” 性别和性格会突变](http://tech.qianlong.com/2017/0220/1415584.shtml)
+- [这个时代，机器人也要肤白貌美性格好？](https://mp.weixin.qq.com/s/6B_SkNqYw7TI6bhcghu-ow)
+- [人工智障 2 : 你看到的 AI 与智能无关](https://mp.weixin.qq.com/s/tFcVohNjdhvBE_INQk9muQ)
+- [【独家】百度朱凯华：智能搜索和对话式 OS 最新技术全面解读（65PPT）](https://mp.weixin.qq.com/s/oMoPk8FoVm9xMQpQISgq6A) -[专栏 | 聊天机器人：困境和破局](https://mp.weixin.qq.com/s/6lY4SBVioqHyCzDimQNn8w)
+
+- [AI 聊天机器人设计指南 | AIID 编译组](https://mp.weixin.qq.com/s/bA0Dfe4VwUK17NphaWVssg)
+
+- [对话机器人思考(下):复杂多轮对话的关键功能点](https://mp.weixin.qq.com/s/sBXZVFGWPRtDI2tc4Z-Rnw)
+- [机器人和你对话时在想什么？](https://www.infoq.cn/article/jcMG9tULS7RKIhjqbedL)
+- [ACL 2019 开源论文 | 基于知识库和大规模网络文本的问答系统](https://mp.weixin.qq.com/s/Tp751Ox-p_ctD8o19nxbrg)
+
+- [最新综述：对话系统之用户模拟器](https://mp.weixin.qq.com/s/eb0GcjdwO18-_0T9z3KdlA)
+- [Domain+Intent+Slot 真的在理解自然语言吗？](https://mp.weixin.qq.com/s/g89KS05W7fQndvhFPtcpYA)
+- [通用领域对话问答](https://mp.weixin.qq.com/s/gTytudJl4UY0_A4WkuNn0Q)
+- [Chatopera 多轮对话设计器:实现天气查询机器人的过程](http://www.ctiforum.com/news/guandian/540278.html)
+- [基于金融-司法领域(兼有闲聊性质)的聊天机器人](https://mp.weixin.qq.com/s/ziM0U-KEePjZLNMhK5PVXA)
+
+- [AI 中台——智能聊天机器人平台的架构与应用|分享实录（附视频）](https://mp.weixin.qq.com/s/c5uXsPIwFzoMwqmG2-JUPg)
+
+- [基于 CNN 和序列标注的对联机器人 | 附数据集 & 开源代码](https://mp.weixin.qq.com/s/wH8nFwaDryrjBn1y-e-QdQ)
+- [深度长文：NLP 的巨人肩膀（上）](https://mp.weixin.qq.com/s/Rd3-ypRYiJObi-e2JDeOjQ)
+- [问答系统冠军之路：用 CNN 做问答任务的 QANet](https://mp.weixin.qq.com/s/Xc4kh3y-wHfyVt0-BL1RBQ)
+- [竹间智能 CTO 翁嘉颀：如何打造主动式对话机器人 | 吃瓜笔记](https://mp.weixin.qq.com/s/HWWkzgv5b5TvG-ySkTy3eQ)
+
+- [聊天机器人“进化论”:从陪你聊到懂你心](https://mp.weixin.qq.com/s/p2hhJ2u7y6JRzhoh7BRC2A)
+- [研学·产品设计 | Chatbot 的人格很重要吗？](https://mp.weixin.qq.com/s/ZotAU1q7-54zJ1-3V6G-NQ)
+- [用 TensorFlow 实现智能机器人](https://mp.weixin.qq.com/s/bnDlLdtTfUxv9b4QUNuhNw)
+
+- [对话系统原理和实践](https://mp.weixin.qq.com/s/WcmgZz75L2k4lTHw5YRrKg)
+
+- [以 Facebook 的 wit.ai 为例讲解机器人对话平台（Bot Framework）](https://mp.weixin.qq.com/s/WUCvo2JjJMdmLSPCQ6oNIg)
+- [从 api.ai 工作原理来看构建简单场景 chatbot 的一般方法](https://mp.weixin.qq.com/s/1NZK_of6G7YLmVRN0IJaEw)
+- [利用逻辑回归模型判断用户提问意图](https://mp.weixin.qq.com/s/FVNPaB9k3WunPab6nJeJAA)
+- [一天开发一款聊天机器人](https://mp.weixin.qq.com/s/yTQKO52i6zHiG8dYvLwe9w)
+- [分享丨浅谈垂直领域的 chatbot](https://mp.weixin.qq.com/s/h8uontPdM5JyD-T71eAHqg)
+- [学术】联合意图推测和槽位填充的基于注意力的循环神经网络模型](https://mp.weixin.qq.com/s/lw3zLhxoJEbEQz0KGsS7KQ)
+- [赛尔原创 | 聊天机器人中用户出行消费意图识别方法研究](https://mp.weixin.qq.com/s/ZexnTKHEFKPso5fhZNQfQQ)
+- [“搜你所想”之用户搜索意图识别](https://mp.weixin.qq.com/s/iZktDVvurlCQxdz-O6xGBw)
+
+- [图灵机器人：带着千亿条语料库，它成为了 QQ 的群聊机器人 | 创业](https://mp.weixin.qq.com/s/rqOgiuOCh1uZ71Qe3rWhYg) -[PaperWeekly 第 40 期 | 对话系统任务综述与基于 POMDP 的对话系统](https://mp.weixin.qq.com/s/Y1AmrK4kIBNtXwdW718cag)
+- [让聊天机器人同你聊得更带劲 - 对话策略学习 | 论文访谈间 #21](https://mp.weixin.qq.com/s/vt25TVX-tcurtAC63dYYNA)
+- [“小会话，大学问” - 如何让聊天机器人读懂对话历史？| 论文访谈间 #03](https://mp.weixin.qq.com/s/9PRVaafBCHy1kjO9LQyHoA)
+- [最全盘点| 入侵保险业的聊天机器人](https://mp.weixin.qq.com/s/m9HuxxQN43wCI42Lhi-m5g)
+- [推荐｜自己动手做聊天机器人（全套资料）](https://mp.weixin.qq.com/s/hOkxEPm-nPAqjcUxMYVGfA)
+
+- [机器学习利用 Elasticsearch 进行更智能搜索](https://mp.weixin.qq.com/s/6-KAMm-HKUURR0OU_-ZhiA)
+- [用 Rasa NLU 构建自己的中文 NLU 系统](https://mp.weixin.qq.com/s/pdHAMBhNOiANe2JUUMadYw)
+- [实战 | 让机器人替你聊天，还不被人看出破绽？来，手把手教你训练一个克隆版的你](https://mp.weixin.qq.com/s/il7EJKwiAjiOmEV-xtt3IA)
+- [观点 | 如何从一名软件工程师转行做人工智能？](https://mp.weixin.qq.com/s/EB469sq3TauBk_JioIVUSw)
+- [未来，AI+多轮对话将怎样玩转智能客服](https://zhuanlan.zhihu.com/p/26296810)
+- [聊天机器人落地及进阶实战 | 公开课速记](https://mp.weixin.qq.com/s/h6BjW1nrV4z30eWfny7Wzw)
+
+## 汇总
+
+- [聊天机器人资料汇总](https://mp.weixin.qq.com/s/7xmDcaczpda5eoViPrjLRA)
+- [【专知荟萃 05】聊天机器人 Chatbot 知识资料全集（入门/进阶/论文/软件/数据/专家等）(附 pdf 下载)](https://mp.weixin.qq.com/s/GLrJ9HImHztVcN8w1Wk2ng)
+- [【专知荟萃 04】自动问答 QA 知识资料全集（入门/进阶/论文/代码/数据/综述/专家等）（附 pdf 下载）](https://mp.weixin.qq.com/s/OFqCIMPV3oiQmZdkwoiN8Q)
+- [智能问答与深度学习](https://item.jd.com/12479014.html)
+- [MSRA 周明博士解读：聊天机器人的三大引擎（视频+PPT）](https://mp.weixin.qq.com/s/FBynWU8BLyJcUomO3Y8mSg)
+
+## 对话管理
+
+- [干货｜深度强化学习在面向任务的对话管理中的应用](https://mp.weixin.qq.com/s/uDFsWebfLmka-zZX3Y_8kg)
+- [机器人，我们来聊天吧](https://mp.weixin.qq.com/s/IsN60tmtERjWb2howxs4ug)
+- [多轮对话之对话管理(Dialog Management)](https://mp.weixin.qq.com/s/9i8v2kiPQKLYicoASJvfQg)
+- [【小夕精选】多轮对话之对话管理(Dialog Management)](https://mp.weixin.qq.com/s/QIXqgzK-XBRgbtfY3uP0sg)
+
+## 知识图谱
+
+- [基于知识图谱的人机对话系统 | 公开课笔记](https://mp.weixin.qq.com/s/vRsqMgBUI6Nv1ieFDx5jDQ)
+- [基于知识图谱的问答系统关键技术研究（一）](https://mp.weixin.qq.com/s/rpUtdoOWMX4meQjw6-D6gw)
+- [基于知识图谱的问答系统关键技术研究（三）](https://mp.weixin.qq.com/s/6D0d6Fp6wBvDyOyvFlJ1Qg)
+- [肖仰华 | 基于知识图谱的问答系统](https://mp.weixin.qq.com/s/pl1m8ZgFQS-O-t7scUvUYQ)
+- [当知识图谱遇上聊天机器人](https://mp.weixin.qq.com/s/iqFXvhvYfOejaeNAhXxJEg)
+- [聊天机器人对知识图谱有哪些特殊的需求？](https://mp.weixin.qq.com/s/aHY9peDgWAVDom4at6vtSw)
+
+## 智能客服
+
+- [十张图解读我国智能客服行业发展现状与前景](https://mp.weixin.qq.com/s/cht9ng1OMLwS_NgQh_8rQw)
+- [AI 前沿 | 如何让智能客服更有温度？](https://mp.weixin.qq.com/s/d6ie_Q-NyMh4Sp4mXWqpyQ)
+- [春松客服：一个开源的智能客服系统](https://chatopera.blog.csdn.net/article/details/82502190)
+- [不是所有的智能机器人都能做好客服——浅谈智能客服机器人评价指标新趋势](https://mp.weixin.qq.com/s/n-uicubtTFyOH00HAvRgMQ)
+- [能感知情绪的 IBM 机器人，正打算消灭人工在线客服](https://mp.weixin.qq.com/s/hYnnWFlZr2R_DNcGuhw6Zg)
+- [关于券商智能客服，那些绕不开的坑](https://mp.weixin.qq.com/s/UX_JABQ7YlhSKbDCPF4fyw)
+- [你问我答之「智能客服评价体系全解读」](https://mp.weixin.qq.com/s/Xj2QMbZXPLigiFhsT33k_A)
+- [追一科技券商 AI 沙龙：智能呼叫的价值落地](https://mp.weixin.qq.com/s/3FM8z5Fxtlfau33NaWhrpQ)
+- [详解第二代客服机器人 | 聚焦问题解决，客户服务任务一站直达](https://mp.weixin.qq.com/s/OQL4Acw_6ukLhoQzR5dN7A)
+- [项目实战｜智能客服（“七鱼”、“小 i 机器人”）产品分析](https://www.toutiao.com/a6491864897222083085/?timestamp=1572194640&app=news_article&group_id=6491864897222083085&req_id=2019102800440001001404115117B2ADF3)
+
+## 知识库
+
+- [王浩：新一代智能化知识库（PPT 可下载）](https://mp.weixin.qq.com/s/O_scTuIto698EM8oivoDoQ)
+- [新一代呼叫中心智能知识库什么样？](https://mp.weixin.qq.com/s/lkr-lqkjxXfkJ2QYP4y6lA)
+- [你问我答之「YiBot 知识体系运营知多少」](https://mp.weixin.qq.com/s/9-HUoePmGvv40JVWcPtHew)
+- [揭开知识库的神秘面纱 8·非结构化知识源篇](https://mp.weixin.qq.com/s/cNW_GEQXOYQvJthnVSgimw)
+- [智能客服知识库的 3 件核心工作](https://mp.weixin.qq.com/s/Y71NeiQ-Wcxz-bxXVhmo1g)
+
 # 阿里巴巴
 
 ## 小蜜
@@ -133,131 +243,3 @@
 # 腾讯
 
 - [腾讯知文问答引擎在工业级实战中的演化](https://www.infoq.cn/article/QuWYBASaV0C9PTYpwwF0)
-
-# 其他
-
-## 聊天机器人介绍
-
-- [对话智能：国际视角，国内形势及案例学习](https://www.infoq.cn/article/AsSJ4cx5mLsa7SYl3-EY)
-- [实录分享 | 计算未来轻沙龙：对话系统研究进展（视频 + PPT）](https://mp.weixin.qq.com/s/YxpU4Q7QsUS3RGtlcK4Gwg)
-- [聊天机器人初学者完全指南](https://mp.weixin.qq.com/s/oOfJ-i-oKVXsRFICEPes5w)
-- [万物有灵：人机对话系统解析](https://mp.weixin.qq.com/s/Nj1kwKm333sNIGuvR6L4aA)
-- [Bot：带来对话式体验的下一代 UI](https://mp.weixin.qq.com/s/dclUGI6OtI04bXQhIqwImg)
-- [聊天机器人技术的研究进展](https://mp.weixin.qq.com/s/CsoNU4pMnuMNX1zwwW-Dag)
-- [总结 │ 解密 chatbot 人工智能聊天机器人 技术沙龙](https://mp.weixin.qq.com/s/r7vPOSdH7XK_3jc1WLqr2Q)
-- [盘点 | 聊天机器人的发展状况与分类](https://mp.weixin.qq.com/s/OX1LBLsk-KNNw_wEwcuJNQ)
-- [巨头们都很重视的聊天机器人，你不进来看看吗？](https://mp.weixin.qq.com/s/437xI1vbi7x37Uw-tL43Xg)
-- [为什么聊天机器人从业者都很委屈？](https://mp.weixin.qq.com/s/_pbqkAsDEkRbxLB3ehFuUA)
-
-- [聊天机器人多会长成“女孩” 性别和性格会突变](http://tech.qianlong.com/2017/0220/1415584.shtml)
-- [这个时代，机器人也要肤白貌美性格好？](https://mp.weixin.qq.com/s/6B_SkNqYw7TI6bhcghu-ow)
-
-- [人工智障 2 : 你看到的 AI 与智能无关](https://mp.weixin.qq.com/s/tFcVohNjdhvBE_INQk9muQ)
-- [为什么现在的人工智能助理都像人工智障？](https://mp.weixin.qq.com/s/EhRk_bCNefyYh8HuulpknA)
-- [【独家】百度朱凯华：智能搜索和对话式 OS 最新技术全面解读（65PPT）](https://mp.weixin.qq.com/s/oMoPk8FoVm9xMQpQISgq6A) -[专栏 | 聊天机器人：困境和破局](https://mp.weixin.qq.com/s/6lY4SBVioqHyCzDimQNn8w)
-- [甲骨文 聊天机器人，全天候的智能助理](https://mp.weixin.qq.com/s/jHkuR3aNPUHjyVzxh2-ejg)
-- [AI 聊天机器人设计指南 | AIID 编译组](https://mp.weixin.qq.com/s/bA0Dfe4VwUK17NphaWVssg)
-
-## 其他
-
-- [对话机器人思考(下):复杂多轮对话的关键功能点](https://mp.weixin.qq.com/s/sBXZVFGWPRtDI2tc4Z-Rnw)
-- [机器人和你对话时在想什么？](https://www.infoq.cn/article/jcMG9tULS7RKIhjqbedL)
-- [ACL 2019 开源论文 | 基于知识库和大规模网络文本的问答系统](https://mp.weixin.qq.com/s/Tp751Ox-p_ctD8o19nxbrg)
-
-- [最新综述：对话系统之用户模拟器](https://mp.weixin.qq.com/s/eb0GcjdwO18-_0T9z3KdlA)
-- [Domain+Intent+Slot 真的在理解自然语言吗？](https://mp.weixin.qq.com/s/g89KS05W7fQndvhFPtcpYA)
-- [通用领域对话问答](https://mp.weixin.qq.com/s/gTytudJl4UY0_A4WkuNn0Q)
-
-- [基于金融-司法领域(兼有闲聊性质)的聊天机器人](https://mp.weixin.qq.com/s/ziM0U-KEePjZLNMhK5PVXA)
-
-- [AI 中台——智能聊天机器人平台的架构与应用|分享实录（附视频）](https://mp.weixin.qq.com/s/c5uXsPIwFzoMwqmG2-JUPg)
-
-- [基于 CNN 和序列标注的对联机器人 | 附数据集 & 开源代码](https://mp.weixin.qq.com/s/wH8nFwaDryrjBn1y-e-QdQ)
-- [深度长文：NLP 的巨人肩膀（上）](https://mp.weixin.qq.com/s/Rd3-ypRYiJObi-e2JDeOjQ)
-- [问答系统冠军之路：用 CNN 做问答任务的 QANet](https://mp.weixin.qq.com/s/Xc4kh3y-wHfyVt0-BL1RBQ)
-- [竹间智能 CTO 翁嘉颀：如何打造主动式对话机器人 | 吃瓜笔记](https://mp.weixin.qq.com/s/HWWkzgv5b5TvG-ySkTy3eQ)
-
-- [揭开知识库问答 KB-QA 的面纱 5·深度学习上篇](https://mp.weixin.qq.com/s/CsRHNchwL24VWMq6FedHUQ)
-
-- [CIIS 演讲实录丨王昊奋： 从聊天机器人到虚拟生命：AI 技术的新机遇](https://mp.weixin.qq.com/s/YS2yP0skx6HsUUySJKARjA)
-- [从聊天机器人到虚拟生命：AI 技术的新机遇](https://mp.weixin.qq.com/s/WsrpmhhWlu7VVHhMASTb_A)
-
-- [聊天机器人“进化论”:从陪你聊到懂你心](https://mp.weixin.qq.com/s/p2hhJ2u7y6JRzhoh7BRC2A)
-- [研学·产品设计 | Chatbot 的人格很重要吗？](https://mp.weixin.qq.com/s/ZotAU1q7-54zJ1-3V6G-NQ)
-- [用 TensorFlow 实现智能机器人](https://mp.weixin.qq.com/s/bnDlLdtTfUxv9b4QUNuhNw)
-
-- [对话系统原理和实践](https://mp.weixin.qq.com/s/WcmgZz75L2k4lTHw5YRrKg)
-
-- [以 Facebook 的 wit.ai 为例讲解机器人对话平台（Bot Framework）](https://mp.weixin.qq.com/s/WUCvo2JjJMdmLSPCQ6oNIg)
-- [从 api.ai 工作原理来看构建简单场景 chatbot 的一般方法](https://mp.weixin.qq.com/s/1NZK_of6G7YLmVRN0IJaEw)
-- [利用逻辑回归模型判断用户提问意图](https://mp.weixin.qq.com/s/FVNPaB9k3WunPab6nJeJAA)
-- [一天开发一款聊天机器人](https://mp.weixin.qq.com/s/yTQKO52i6zHiG8dYvLwe9w)
-- [分享丨浅谈垂直领域的 chatbot](https://mp.weixin.qq.com/s/h8uontPdM5JyD-T71eAHqg)
-- [学术】联合意图推测和槽位填充的基于注意力的循环神经网络模型](https://mp.weixin.qq.com/s/lw3zLhxoJEbEQz0KGsS7KQ)
-- [赛尔原创 | 聊天机器人中用户出行消费意图识别方法研究](https://mp.weixin.qq.com/s/ZexnTKHEFKPso5fhZNQfQQ)
-- [“搜你所想”之用户搜索意图识别](https://mp.weixin.qq.com/s/iZktDVvurlCQxdz-O6xGBw)
-
-- [图灵机器人：带着千亿条语料库，它成为了 QQ 的群聊机器人 | 创业](https://mp.weixin.qq.com/s/rqOgiuOCh1uZ71Qe3rWhYg) -[PaperWeekly 第 40 期 | 对话系统任务综述与基于 POMDP 的对话系统](https://mp.weixin.qq.com/s/Y1AmrK4kIBNtXwdW718cag)
-- [让聊天机器人同你聊得更带劲 - 对话策略学习 | 论文访谈间 #21](https://mp.weixin.qq.com/s/vt25TVX-tcurtAC63dYYNA)
-- [“小会话，大学问” - 如何让聊天机器人读懂对话历史？| 论文访谈间 #03](https://mp.weixin.qq.com/s/9PRVaafBCHy1kjO9LQyHoA)
-- [最全盘点| 入侵保险业的聊天机器人](https://mp.weixin.qq.com/s/m9HuxxQN43wCI42Lhi-m5g)
-- [推荐｜自己动手做聊天机器人（全套资料）](https://mp.weixin.qq.com/s/hOkxEPm-nPAqjcUxMYVGfA)
--
-
-- [机器学习利用 Elasticsearch 进行更智能搜索](https://mp.weixin.qq.com/s/6-KAMm-HKUURR0OU_-ZhiA)
-- [用 Rasa NLU 构建自己的中文 NLU 系统](https://mp.weixin.qq.com/s/pdHAMBhNOiANe2JUUMadYw)
-- [实战 | 让机器人替你聊天，还不被人看出破绽？来，手把手教你训练一个克隆版的你](https://mp.weixin.qq.com/s/il7EJKwiAjiOmEV-xtt3IA)
-- [观点 | 如何从一名软件工程师转行做人工智能？](https://mp.weixin.qq.com/s/EB469sq3TauBk_JioIVUSw)
-- [未来，AI+多轮对话将怎样玩转智能客服](https://zhuanlan.zhihu.com/p/26296810)
-- [聊天机器人落地及进阶实战 | 公开课速记](https://mp.weixin.qq.com/s/h6BjW1nrV4z30eWfny7Wzw)
-
-## 汇总
-
-- [聊天机器人资料汇总](https://mp.weixin.qq.com/s/7xmDcaczpda5eoViPrjLRA)
-- [【专知荟萃 05】聊天机器人 Chatbot 知识资料全集（入门/进阶/论文/软件/数据/专家等）(附 pdf 下载)](https://mp.weixin.qq.com/s/GLrJ9HImHztVcN8w1Wk2ng)
-- [【专知荟萃 04】自动问答 QA 知识资料全集（入门/进阶/论文/代码/数据/综述/专家等）（附 pdf 下载）](https://mp.weixin.qq.com/s/OFqCIMPV3oiQmZdkwoiN8Q)
-- [【专知荟萃 03】知识图谱 KG 知识资料全集（入门/进阶/论文/代码/数据/综述/专家等）（附 pdf 下载）](https://mp.weixin.qq.com/s/w3Q6HdHMNhASYfzKvd2QXg)
-
-- [MSRA 周明博士解读：聊天机器人的三大引擎（视频+PPT）](https://mp.weixin.qq.com/s/FBynWU8BLyJcUomO3Y8mSg)
-
-## 对话管理
-
-- [干货｜深度强化学习在面向任务的对话管理中的应用](https://mp.weixin.qq.com/s/uDFsWebfLmka-zZX3Y_8kg)
-- [机器人，我们来聊天吧](https://mp.weixin.qq.com/s/IsN60tmtERjWb2howxs4ug)
-- [多轮对话之对话管理(Dialog Management)](https://mp.weixin.qq.com/s/9i8v2kiPQKLYicoASJvfQg)
-- [【小夕精选】多轮对话之对话管理(Dialog Management)](https://mp.weixin.qq.com/s/QIXqgzK-XBRgbtfY3uP0sg)
-
-## 知识图谱
-
-- [基于知识图谱的人机对话系统 | 公开课笔记](https://mp.weixin.qq.com/s/vRsqMgBUI6Nv1ieFDx5jDQ)
-- [基于知识图谱的问答系统关键技术研究（一）](https://mp.weixin.qq.com/s/rpUtdoOWMX4meQjw6-D6gw)
-- [基于知识图谱的问答系统关键技术研究（三）](https://mp.weixin.qq.com/s/6D0d6Fp6wBvDyOyvFlJ1Qg)
-- [肖仰华 | 基于知识图谱的问答系统](https://mp.weixin.qq.com/s/pl1m8ZgFQS-O-t7scUvUYQ)
-- [当知识图谱遇上聊天机器人](https://mp.weixin.qq.com/s/iqFXvhvYfOejaeNAhXxJEg)
-- [聊天机器人对知识图谱有哪些特殊的需求？](https://mp.weixin.qq.com/s/aHY9peDgWAVDom4at6vtSw)
-
-## 智能客服
-
-- [十张图解读我国智能客服行业发展现状与前景](https://mp.weixin.qq.com/s/cht9ng1OMLwS_NgQh_8rQw)
-- [AI 前沿 | 如何让智能客服更有温度？](https://mp.weixin.qq.com/s/d6ie_Q-NyMh4Sp4mXWqpyQ)
-- [不是所有的智能机器人都能做好客服——浅谈智能客服机器人评价指标新趋势](https://mp.weixin.qq.com/s/n-uicubtTFyOH00HAvRgMQ)
-- [能感知情绪的 IBM 机器人，正打算消灭人工在线客服](https://mp.weixin.qq.com/s/hYnnWFlZr2R_DNcGuhw6Zg)
-- [项目实战｜智能客服（“七鱼”、“小 i 机器人”）产品分析](https://m.sohu.com/a/206345344_114819/?pvid=000115_3w_a)
-- [关于券商智能客服，那些绕不开的坑](https://mp.weixin.qq.com/s/UX_JABQ7YlhSKbDCPF4fyw)
-- [你问我答之「智能客服评价体系全解读」](https://mp.weixin.qq.com/s/Xj2QMbZXPLigiFhsT33k_A)
-- [追一科技券商 AI 沙龙：智能呼叫的价值落地](https://mp.weixin.qq.com/s/3FM8z5Fxtlfau33NaWhrpQ)
-- [当 Elasticsearch 遇见智能客服机器人](https://mp.weixin.qq.com/s/zjlFTc6tPVXyOYo2d4GVbQ)
-- [详解第二代客服机器人 | 聚焦问题解决，客户服务任务一站直达](https://mp.weixin.qq.com/s/OQL4Acw_6ukLhoQzR5dN7A)
-- [项目实战｜智能客服（“七鱼”、“小 i 机器人”）产品分析](https://www.toutiao.com/a6491864897222083085/?timestamp=1572194640&app=news_article&group_id=6491864897222083085&req_id=2019102800440001001404115117B2ADF3)
-
-## 智齿
-
--[智齿 | 机器人来当客服 会是什么样？](https://mp.weixin.qq.com/s/jreM-RS6JT4Fk5tk-wDS_Q)
-
-## 知识库
-
-- [王浩：新一代智能化知识库（PPT 可下载）](https://mp.weixin.qq.com/s/O_scTuIto698EM8oivoDoQ)
-- [新一代呼叫中心智能知识库什么样？](https://mp.weixin.qq.com/s/lkr-lqkjxXfkJ2QYP4y6lA)
-- [你问我答之「YiBot 知识体系运营知多少」](https://mp.weixin.qq.com/s/9-HUoePmGvv40JVWcPtHew)
-- [揭开知识库的神秘面纱 8·非结构化知识源篇](https://mp.weixin.qq.com/s/cNW_GEQXOYQvJthnVSgimw)
-- [智能客服知识库的 3 件核心工作](https://mp.weixin.qq.com/s/Y71NeiQ-Wcxz-bxXVhmo1g)
