@@ -9,6 +9,7 @@
 - [对话智能：国际视角，国内形势及案例学习](https://www.infoq.cn/article/AsSJ4cx5mLsa7SYl3-EY)
 - [实录分享 | 计算未来轻沙龙：对话系统研究进展（视频 + PPT）](https://mp.weixin.qq.com/s/YxpU4Q7QsUS3RGtlcK4Gwg)
 - [聊天机器人初学者完全指南](https://mp.weixin.qq.com/s/oOfJ-i-oKVXsRFICEPes5w)
+- [聊天机器人设计思考](https://github.com/qhduan/ConversationalRobotDesign)
 - [万物有灵：人机对话系统解析](https://mp.weixin.qq.com/s/Nj1kwKm333sNIGuvR6L4aA)
 - [Bot：带来对话式体验的下一代 UI](https://mp.weixin.qq.com/s/dclUGI6OtI04bXQhIqwImg)
 - [聊天机器人技术的研究进展](https://mp.weixin.qq.com/s/CsoNU4pMnuMNX1zwwW-Dag)
@@ -60,7 +61,6 @@
 - [让聊天机器人同你聊得更带劲 - 对话策略学习 | 论文访谈间 #21](https://mp.weixin.qq.com/s/vt25TVX-tcurtAC63dYYNA)
 - [“小会话，大学问” - 如何让聊天机器人读懂对话历史？| 论文访谈间 #03](https://mp.weixin.qq.com/s/9PRVaafBCHy1kjO9LQyHoA)
 - [最全盘点| 入侵保险业的聊天机器人](https://mp.weixin.qq.com/s/m9HuxxQN43wCI42Lhi-m5g)
-- [推荐｜自己动手做聊天机器人（全套资料）](https://mp.weixin.qq.com/s/hOkxEPm-nPAqjcUxMYVGfA)
 
 - [机器学习利用 Elasticsearch 进行更智能搜索](https://mp.weixin.qq.com/s/6-KAMm-HKUURR0OU_-ZhiA)
 - [用 Rasa NLU 构建自己的中文 NLU 系统](https://mp.weixin.qq.com/s/pdHAMBhNOiANe2JUUMadYw)
@@ -76,6 +76,7 @@
 - [【专知荟萃 04】自动问答 QA 知识资料全集（入门/进阶/论文/代码/数据/综述/专家等）（附 pdf 下载）](https://mp.weixin.qq.com/s/OFqCIMPV3oiQmZdkwoiN8Q)
 - [智能问答与深度学习](https://item.jd.com/12479014.html)
 - [MSRA 周明博士解读：聊天机器人的三大引擎（视频+PPT）](https://mp.weixin.qq.com/s/FBynWU8BLyJcUomO3Y8mSg)
+- [聊天机器人平台：Chatopera 云服务使用指南](https://www.bilibili.com/read/cv7526530)
 
 ## 对话管理
 
