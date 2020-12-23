@@ -106,7 +106,7 @@
 - [追一科技券商 AI 沙龙：智能呼叫的价值落地](https://mp.weixin.qq.com/s/3FM8z5Fxtlfau33NaWhrpQ)
 - [详解第二代客服机器人 | 聚焦问题解决，客户服务任务一站直达](https://mp.weixin.qq.com/s/OQL4Acw_6ukLhoQzR5dN7A)
 - [项目实战｜智能客服（“七鱼”、“小 i 机器人”）产品分析](https://www.toutiao.com/a6491864897222083085/?timestamp=1572194640&app=news_article&group_id=6491864897222083085&req_id=2019102800440001001404115117B2ADF3)
-
+- [智能客服FAQ问答任务的技术选型探讨](https://zhuanlan.zhihu.com/p/50799128)
 ## 知识库
 
 - [王浩：新一代智能化知识库（PPT 可下载）](https://mp.weixin.qq.com/s/O_scTuIto698EM8oivoDoQ)
